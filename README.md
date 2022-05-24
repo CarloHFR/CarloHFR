@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m Carlo Henrique 
 - 👀 I’m interested in distributed systems
-
 ##
 
 <div align="center">
