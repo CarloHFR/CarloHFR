@@ -15,17 +15,6 @@
 
 <div align="center">
   <h3 align='center'>
-    Stats
-  </h3>
-  <a href="https://github.com/CarloHFR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlohfr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlohfr&layout=compact&langs_count=8&theme=dracula"/>
-</div>
-
-##
-
-<div align="center">
-  <h3 align='center'>
     Programming languages
   </h3>
   <div style="display: inline_block"><br>
@@ -54,4 +43,14 @@
 </div>
 
 ##
-  
+
+<div align="center">
+  <h3 align='center'>
+    Stats
+  </h3>
+  <a href="https://github.com/CarloHFR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlohfr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlohfr&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
+##
