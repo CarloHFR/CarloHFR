@@ -32,3 +32,7 @@
 </div>
 
 ##
+  
+<div align="center">
+  <img src='https://github.com/carlohfr/carlohfr/master/images/octocat.gif' width='150'>  
+</div>
