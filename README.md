@@ -1,9 +1,12 @@
 ##
 
-<h1 align='center'>
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Carlo Henrique
-</h1>
+<div align='center'>
+  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Carlo Henrique</h1>
+  <h4>I have a technologist degree in systems analysis and development and I'm currently studying distributed systems</h4>
+</div>
 
+##
+  
 <div align="center">
   <h3 align='center'>
     Links
