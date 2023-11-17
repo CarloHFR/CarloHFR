@@ -47,10 +47,3 @@
 
 ##
 
-<div align="center">
-  <h3 align='center'>
-    Stats
-  </h3>
-</div>
-
-##
